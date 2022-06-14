@@ -43,7 +43,7 @@ $ yarn ou npm install
 ```
 É nessário editar os sequintes arquivos de acordo com o IP da máquina que esta sendo executado o projeto  
 
-- <a href="https://github.com/jovinoneto/rentx/blob/main/package.json">package.json</a>  
+- <a href="https://github.com/jovinoneto/rentx/blob/a17b9522952c81f4e4321ee2399937080591fae0/package.json#L10">package.json</a>  
 ```
 ./package.json
 "api": "json-server ./src/services/server.json --host "SEU IP" --port 3333 --delay
